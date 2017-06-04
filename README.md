@@ -1,2 +1,5 @@
 # Text-Detection-in-Image
-Text Detector
+
+## Getting Familiar
+
+Here we will see our GUI app.
