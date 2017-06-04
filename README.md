@@ -6,16 +6,16 @@ Here we will see our GUI app.
   ### Home Screen
   This is the first screen you'll encounter.
   
-  [Home](https://github.com/hmnhGeek/Text-Detection-in-Image/blob/master/images/home.png)
+  https://github.com/hmnhGeek/Text-Detection-in-Image/blob/master/images/home.png
   
   ### Choose file
   Now choose an image for text detection by clicking on choose file button.
   
-  [choose](https://github.com/hmnhGeek/Text-Detection-in-Image/blob/master/images/choose.png)
+  https://github.com/hmnhGeek/Text-Detection-in-Image/blob/master/images/choose.png
   
   Note that untill you choose the first image, the show text button on home will remain disabled.
   
   ### Get the text
   Click show text to get your text.
   
-  [show](https://github.com/hmnhGeek/Text-Detection-in-Image/blob/master/images/gettext.png)
+  https://github.com/hmnhGeek/Text-Detection-in-Image/blob/master/images/gettext.png
